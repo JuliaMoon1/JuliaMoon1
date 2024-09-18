@@ -17,6 +17,8 @@
 - **Rust Developer** – Writing efficient, safe, and fast code with Rust.
 - **Blockchain Enthusiast** – Exploring innovations in blockchain technology and decentralized finance (DeFi).
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuliaMoon1&theme=tokyonight&hide_border=true&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
+
 ### 💻 Languages and Tools:
 <p align="left">
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
