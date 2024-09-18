@@ -17,14 +17,6 @@
 - **Rust Developer** – Writing efficient, safe, and fast code with Rust.
 - **Blockchain Enthusiast** – Exploring innovations in blockchain technology and decentralized finance (DeFi).
 
-### 📫 Connect with me:
-<p align="left">
-  <a href="https://twitter.com/laliola4" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter @laliola4" height="30" width="40" />
-  </a>
-</p>
-
-
 ### 💻 Languages and Tools:
 <p align="left">
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
