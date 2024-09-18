@@ -12,7 +12,10 @@
 </p>
 
 ### 🔭 What I'm currently working on:
-- Blockchain projects
+- **Web3 Developer** – Building decentralized applications and contributing to the future of the web.
+- **Node Operator** – Running and managing blockchain nodes for various decentralized networks.
+- **Rust Developer** – Writing efficient, safe, and fast code with Rust.
+- **Blockchain Enthusiast** – Exploring innovations in blockchain technology and decentralized finance (DeFi).
 
 ### 📫 Connect with me:
 <p align="left">
